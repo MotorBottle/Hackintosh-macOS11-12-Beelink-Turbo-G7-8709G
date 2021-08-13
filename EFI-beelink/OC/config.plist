@@ -967,11 +967,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C07031101GUKXPGJA</string>
+			<string>C07021301CDKXPGFB</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>8Oj1ru59</data>
+			<data>Kw2KZiRH</data>
 			<key>SpoofVendor</key>
 			<false/>
 			<key>SystemMemoryStatus</key>
@@ -979,9 +979,9 @@
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07D53Z7JYVX</string>
+			<string>C07CRJZWJYVX</string>
 			<key>SystemUUID</key>
-			<string>FDA07DAA-0AB9-4B0A-B848-51A9D684DD98</string>
+			<string>B167134F-2BB8-4A8F-BC5E-A91770662447</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
