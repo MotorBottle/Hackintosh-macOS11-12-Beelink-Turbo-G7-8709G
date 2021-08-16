@@ -5,7 +5,7 @@
 已经改用AppleALC驱动声卡，使用正常  ~~此外请暂缓升级到更新的的版本，11.2以上的系统可能需要改用AppleALC来驱动声卡，本人暂时没空测试；~~  
 macOS12 monterey 需要替换kext，请看文末使用栏的说明 ~~目前存在显卡驱动问题，请关注osy的hac-mini的issue页跟进，暂时不要升级~~  
 
-测试支持 Support tested : Big Sur 11.2
+测试支持 Support tested : Big Sur 11.2/Monterey 12.0 b4(需替换kext)
  
 #### 配置/Hardware info
 | 规格     | 详细信息                                                                       |
