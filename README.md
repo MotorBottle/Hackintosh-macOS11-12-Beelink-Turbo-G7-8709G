@@ -2,12 +2,12 @@
 98% completed Hackintosh EFI for Beelink turbo g7 8709g tested on Big Sur 11.2  
 由osy的冥王峡谷EFI https://github.com/osy/HaC-Mini 修改而来，两个机子在usb定制和pci路径上有不少不同，因此仅适用于零刻的Turbo g7，其他机器请不要使用此EFI
 
-已经改用AppleALC驱动声卡，使用正常  
+已经改用AppleALC驱动声卡，使用正常；monterey可以正常升级  
 ~~此外请暂缓升级到更新的的版本，11.2以上的系统可能需要改用AppleALC来驱动声卡，本人暂时没空测试；~~  
-macOS12 monterey 需要替换kext，请看文末使用栏的说明  
+~~macOS12 monterey 需要替换kext，请看文末使用栏的说明~~  
 ~~目前存在显卡驱动问题，请关注osy的hac-mini的issue页跟进，暂时不要升级~~  
 
-测试支持 Support tested : Big Sur 11.2/Monterey 12.0 b4(需替换kext)
+测试支持 Support tested : Big Sur 11.2/Monterey 12.0 b4
  
 #### 配置/Hardware info
 | 规格     | 详细信息                                                                       |
@@ -37,5 +37,5 @@ macOS12 monterey 需要替换kext，请看文末使用栏的说明
     
  2. 未解决：    
     ~~音频驱动：音频驱动使用的是VooDooHDA万能驱动，但是此驱动在更新版本的系统中可能会失效，如果你使用AppleALC成功驱动声卡欢迎并感谢分享~~  
-    独显驱动：现已可以正常升级到montereyb4（b5应该也可以但还未来得及测试），升级前请将polaris22fixup.kext替换成这个链接中的个kext https://github.com/osy/Polaris22Fixup/pull/16   
+    独显驱动：现已可以正常升级到montereyb4（b5应该也可以但还未来得及测试），直接升级即可 ~~，升级前请将polaris22fixup.kext替换成这个链接中的个kext https://github.com/osy/Polaris22Fixup/pull/16~~   
     ~~由于新系统的变动，独显尚未适配macOS Monterey，请暂缓升级到macOS12.0及以上版本~~
