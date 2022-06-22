@@ -2,6 +2,8 @@
 99% completed Hackintosh EFI for Beelink turbo g7 8709g tested on Big Sur 11.2  
 由osy的冥王峡谷EFI https://github.com/osy/HaC-Mini 修改而来，两个机子在usb定制和pci路径上有不少不同，因此仅适用于零刻的Turbo g7，其他机器请不要使用此EFI
 
+Update更新：已更新支持MacOS 12.4，下载EFImonterey.zip即可
+
 已经改用AppleALC驱动声卡，使用正常；monterey可以正常升级  
 ~~此外请暂缓升级到更新的的版本，11.2以上的系统可能需要改用AppleALC来驱动声卡，本人暂时没空测试；~~  
 ~~macOS12 monterey 需要替换kext，请看文末使用栏的说明~~  
