@@ -22,7 +22,7 @@ Update更新：已更新支持MacOS 12.4，下载EFImonterey.zip即可
 | 显卡     | AMD VEGA M GH ( 4 GB / HBM )                                        |
 | 无线网卡 | BCM94360CS2 ( 自行替换 )                                                 |
 | 声卡     | 板载                                                                           |
-| OC版本   |  Opencore 0.6.9                                                                              |
+| OC版本   |  Opencore 0.6.9 updated to 0.7.5                                                                              |
                                
 
 
