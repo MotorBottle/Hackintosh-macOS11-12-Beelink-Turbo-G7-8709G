@@ -13,7 +13,7 @@ Update更新：已更新支持MacOS 12.4，下载EFImonterey.zip即可
 ~~macOS12 monterey 需要替换kext，请看文末使用栏的说明~~  
 ~~目前存在显卡驱动问题，请关注osy的hac-mini的issue页跟进，暂时不要升级~~  
 
-测试支持 Support tested : Big Sur 11.2/Monterey 12.0 b5
+测试支持 Support tested : Big Sur 11.2/Monterey 12.4
  
 #### 配置/Hardware info
 | 规格     | 详细信息                                                                       |
