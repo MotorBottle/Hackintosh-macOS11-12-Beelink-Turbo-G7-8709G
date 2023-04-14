@@ -1,7 +1,7 @@
 # Hackintosh-macOS11/12-Beelink-Turbo-G7-8709G
 99% completed Hackintosh EFI for Beelink turbo g7 8709g tested on Big Sur 11.2 & Monterey 12.4
 
-更新：近期即将支持Ventura
+更新：更新相关驱动后可支持Ventura13.3。由于本人最近非常忙碌没有时间更新EFI，向等待EFI更新各位说声抱歉。如果你有一定的基础，可以下载osy的冥王峡谷最新版EFI，再根据我的Config做修改就行，主要涉及usb定制、驱动增减、以及pcie设备property，有不同之处相应的修改即可
 
 
 由osy的冥王峡谷EFI https://github.com/osy/HaC-Mini 修改而来，两个机子在usb定制和pci路径上有不少不同，因此仅适用于零刻的Turbo g7，其他机器请不要使用此EFI
